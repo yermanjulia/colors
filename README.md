@@ -22,9 +22,9 @@ The application consists of three main files:
 ### Dependencies
 The application depends on:
 
-`Chroma.js:` A small JavaScript library for dealing with colors. It is used to calculate the luminance of color to determine the best text color for contrast.
+-**Chroma.js**: A small JavaScript library for dealing with colors. It is used to calculate the luminance of color to determine the best text color for contrast.
 
-`Font Awesome:` A toolkit for web icons. It is used for the lock and unlocks icons in the color columns.
+-**Font Awesome**: A toolkit for web icons. It is used for the lock and unlocks icons in the color columns.
 
-`Google Fonts:` A library of licensed fonts. The application uses the 'Roboto', 'Barlow', and 'Poppins' fonts.
+-**Google Fonts:** A library of licensed fonts. The application uses the 'Roboto', 'Barlow', and 'Poppins' fonts.
 
